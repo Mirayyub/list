@@ -1,46 +1,49 @@
 #EXTM3U
 #EXTINF:0,AZ: AZTV
 #EXTGRP:unsorted
-https://str1.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=221f20795f8a2a28174a76b40ce681de0e8ffb99-4f0dff710fca8893d6f86e38dbf987c9-1610744508-1610733708
+http://185.129.1.242:80/aztvhd/mpegts
 #EXTINF:0,AZ: Idman
 #EXTGRP:unsorted
-https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=0ac9c9fccff7a422fdabd7996669073d5bf1c2fc-ad6c262480722a69d66a31e5c4c7fd75-1610751417-1610740617
+https://str1.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,AZ: Ictimai
 #EXTGRP:unsorted
 https://node19.connect.az:8086/ch1/ch1.med.m3u8
 #EXTINF:0,AZ: Medenivyet
 #EXTGRP:unsorted
-https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,AZ: ATV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=e0f9f54ec9941e85f0e73dfbf0c64c4ccc46cb27-0ae84fb959f618d5b25ebd763756e4c2-1617397253-1617386453
 #EXTINF:0,Xezer TV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+http://185.129.1.242:80/xezertv/mpegts
 #EXTINF:0,AZ: Space
 #EXTGRP:unsorted
-https://str2.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,AZ: Lider
 #EXTGRP:unsorted
-https://str2.yodacdn.net/lider/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/lider/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,AZ: ARB
 #EXTGRP:unsorted
-https://str2.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,AZ: CBC
 #EXTGRP:unsorted
-https://str2.yodacdn.net/cbc/video.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
+#EXTINF:0,Az Star (Iran)
+#EXTGRP:unsorted
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
 #EXTINF:0,AZ: CBC Sport
 #EXTGRP:unsorted
-https://str2.yodacdn.net/cbcsport/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/cbcsport/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,Baku TV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/bakutv/tracks-v4a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/bakutv/tracks-v4a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,ARB 24
 #EXTGRP:unsorted
-https://str2.yodacdn.net/arb24/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+http://85.132.81.184:8080/arb24/live1/index.m3u8
 #EXTINF:0,Real Tv
 #EXTGRP:unsorted
-https://str2.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+http://185.129.1.242:80/realtv/mpegts
 #EXTINF:0,Republic of armenia
 #EXTGRP:unsorted
 http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8?checkedby:hlscat.com
@@ -52,13 +55,13 @@ https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
 #EXTINF:0,Show Tv
 #EXTGRP:unsorted
-https://canli.ensonhaber.com/tr/showtv/index.m3u8
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0,Star Tv
 #EXTGRP:unsorted
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:unsorted
-http://stream.suboroiptv.tv/ATV/playlist.m3u8
+http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:0,ATV AVRUPA
 #EXTGRP:unsorted
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
@@ -67,7 +70,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
 #EXTINF:0,Kanal D
 #EXTGRP:unsorted
-https://mn-nl.mncdn.com/blutv_kanald/kanald_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0,Trt 1
 #EXTGRP:unsorted
 https://tv-trt1.live.trt.com.tr/master_360.m3u8
@@ -79,7 +82,7 @@ http://tv-trtturk.live.trt.com.tr/master.m3u8
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0,360
 #EXTGRP:unsorted
-https://canli.ensonhaber.com/tr/360tv/index.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,a2
 #EXTGRP:unsorted
 http://iptvmasterlink.dyndns.org:5566/Entry/a2hd_yeni.m3u8
@@ -97,70 +100,34 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b846000_sltur.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0,CNN Turk
 #EXTGRP:unsorted
-https://str1.yodacdn.net/cnnturk/video.m3u8?token=a336f0b45c4b93ce22590ebea79af473bb260f6a-9255087ebf9f0202ec35464f09660649-1610749712-1610738912
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0,AZ: Haber Global
 #EXTGRP:unsorted
-https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
+https://mn-nl.mncdn.com/blutv_haberglobal/haberglobal_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0,AZ: TRT World
 #EXTGRP:unsorted
-https://str2.yodacdn.net/trtwold/tracks-v4a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0,AZ: Dalga
 #EXTGRP:unsorted
-https://str2.yodacdn.net/dalga/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/dalga/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,Blu Tv Komedi
 #EXTGRP:unsorted
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+https://mn-nl.mncdn.com/blutv_po/po_sd.smil/playlist.m3u8
 #EXTINF:0,Blu Tv Aksiyon
 #EXTGRP:unsorted
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:0,ViP TV Cok Guzel Hareketler
-#EXTGRP:unsorted
-http://alierkut.mine.nu:8004/hls/vipdizi5.m3u8
-#EXTINF:0,Vip Tv Kemal Sunal
-#EXTGRP:unsorted
-http://alierkut.mine.nu:8004/hls/vipdizi9.m3u8
-#EXTINF:0,SPYBOX 1
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/144.m3u8
-#EXTINF:0,SPYBOX 2
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/3.m3u8
-#EXTINF:0,SPYBOX 3
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/135.m3u8
-#EXTINF:0,SPYBOX 4
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/136.m3u8
-#EXTINF:0,SPYBOX 5
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/137.m3u8
-#EXTINF:0,SPYBOX 6
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/138.m3u8
-#EXTINF:0,SPYBOX 7
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/139.m3u8
-#EXTINF:0,SPYBOX 8
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/142.m3u8
-#EXTINF:0,SPYBOX 9
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/141.m3u8
-#EXTINF:0,SPYBOX 10
-#EXTGRP:unsorted
-http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/2.m3u8
+https://mn-nl.mncdn.com/blutv_playout/playout_hd.smil/playlist.m3u8
 #EXTINF:0,TMB Tv
 #EXTGRP:unsorted
-https://str1.yodacdn.net/tmbtr/tracks-v1a1/mono.m3u8?token=a336f0b45c4b93ce22590ebea79af473bb260f6a-9255087ebf9f0202ec35464f09660649-1610749712-1610738912
+https://str1.yodacdn.net/tmbtr/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,AZ: Mtv Az
 #EXTGRP:unsorted
-https://str2.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str2.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,AZ: MTV HD
 #EXTGRP:unsorted
 http://185.32.44.154/mtvdance/index.m3u8
 #EXTINF:0,MTV HITS
 #EXTGRP:unsorted
-http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+http://178.163.58.26:4022/udp/234.0.0.194:2000
 #EXTINF:0,Жара
 #EXTGRP:unsorted
 http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
@@ -178,7 +145,7 @@ https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/playlist.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/akillitv_yeni.m3u8
 #EXTINF:0,AZ: Arb Gunesh
 #EXTGRP:unsorted
-https://str2.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=cc65a7e83b593bf0fb0eb45fd400e694c83f47fa-97023fced70d13f915c5a6213a66148a-1610746915-1610736115
+https://str1.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=3f639ac58b0b5fe2ee064594fd18689a933dc7c8-53241f13c45be4ad0391e3b2c92ae3b5-1617282171-1617271371
 #EXTINF:0,Trt Çocuk
 #EXTGRP:unsorted
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
